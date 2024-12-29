@@ -1,18 +1,47 @@
 <h1 align="center">Hi 👋, I'm Pratiksh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pratikshborkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratikshborkar" height="30" width="40" /></a>
-<a href="https://fb.com/pratikshborkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratikshborkar" height="30" width="40" /></a>
-<a href="https://instagram.com/pratikshborkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratikshborkar" height="30" width="40" /></a>
-</p>
+<img src="https://i.pinimg.com/1200x/90/70/32/9070324cdfc07c68d60eed0c39e77573.jpg" alt="Pratiksh Borkar" >
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikshborkar&show_icons=true&locale=en&layout=compact" alt="pratikshborkar" /></p>
 
+## 🌐 Socials:
+
+ <div style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://www.instagram.com/borkarpratiksh?igsh=MWRpZ2FoZnZ1dDdkNA==">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="50" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/pratiksh-borkar-570078340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" height="50">
+  </a>
+ 
+</div>
+
+## 💻 Tech Stack:
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+
+
+# 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikshborkar&show_icons=true&locale=en" alt="pratikshborkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshborkar&" alt="pratikshborkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikshborkar&show_icons=true&locale=en&layout=compact" alt="pratikshborkar" /></p>
+
+
+## 🔝 Top Contributed Repo
+
+
+
+
+
