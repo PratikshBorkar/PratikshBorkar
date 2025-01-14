@@ -35,11 +35,9 @@
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikshborkar&show_icons=true&locale=en" alt="pratikshborkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshborkar&" alt="pratikshborkar" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikshborkar&show_icons=true&locale=en&layout=compact" alt="pratikshborkar" /></p>
 
 
-## 🔝 Top Contributed Repo
 
 
 
