@@ -1,4 +1,4 @@
-⅞<h1 align="center">Hi 👋, I'm Pratiksh</h1>
+<h1 align="center">Hi 👋, I'm Pratiksh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
 
@@ -29,14 +29,16 @@
 <div align="left">-->
 <h4> 
   🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
+ 🔭 I worked on js and experience in React.js .</br>
  💬 Skills I acquire in programming languages such as Python, SQL.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ I only like perfection.</h4>
 
 <br>
 
+
 # 💻 Tech Stack:
+
 
 # Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -45,6 +47,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 
 # Frontend Development:
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](#)
@@ -58,14 +61,18 @@
 # Backend Development:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
+
 # Cloud Services and Hosting Platforms:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+
 # Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 # Design and Graphics Tools:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="33" alt="figma logo"  />
@@ -73,7 +80,6 @@
 
 
 # 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=pratikshborkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratikshborkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshborkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
