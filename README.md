@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pratiksh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=30&letterSpacing=Mediunm+&pause=1000&color=94AE89&center=true&vCenter=true&random=true&width=440&height=60&lines=Hi+%F0%9F%91%8B%2CI'm+Pratiksh+Borkar;I+am+a+Frontend+Developer+;)](https://git.io/typing-svg)
+
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Pratiksh Borkar" >
