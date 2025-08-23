@@ -90,8 +90,3 @@
 
 
 
-
-
-hi i am pratiksh 
-
-
