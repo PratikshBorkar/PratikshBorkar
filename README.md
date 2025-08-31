@@ -80,11 +80,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manavlohabade&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=pratikshborkar&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=manavlohabade&theme=transparent&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratikshborkar&theme=transparent&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavlohabade&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshborkar&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 [![pratikshborkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikshborkar&theme=react-dark)](https://github.com/pratikshborkar/github-readme-activity-graph)
