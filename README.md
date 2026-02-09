@@ -36,8 +36,7 @@
 
 <br>
 
-
-💻 Tech Stack:
+<h1 align="left">💻 Tech Stack:</h1>
 
 
 # Programming Languages:
